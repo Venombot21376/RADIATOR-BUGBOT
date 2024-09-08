@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254746764468"
-global.ownername = "☬RADIATOR-BUGBOT☬"
-global.ytname = "❖RADIATOR-BUGBOT❖"
+global.ownernomer = "2349132266422"
+global.ownername = "☬UNKNOWN-BUGBOT☬"
+global.ytname = "❖UNKNOWM-BUGBOT❖"
 global.socialm = "GitHub: Arlo-dragony"
 global.location = "Africa, Kenya, Bomet"
 
-global.ownernumber = '254746764468,254702713600,254746764468'  //creator number
-global.ownername = '❖RADIATOR-BUGBOT❖' //owner name
-global.botname = '❖RADIATOR-BUGBOT❖' //name of the bot
+global.ownernumber = '2349132266422'  //creator number
+global.ownername = '❖UNKNOWN-BUGBOT❖' //owner name
+global.botname = '❖UNKNOWN-BUGBOT❖' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ARLODRAGON DRAGON\n\nContact: +254702713600'
+global.author = 'UN DRAGON\n\nContact: +2349132266422'
 
 //console view/theme
 global.themeemoji = '🐉'
@@ -26,16 +26,16 @@ global.wm = "SIR DRAGON Tech."
 global.link = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['+']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = true //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -54,10 +54,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only or by ARLODRAGON',
-    admin: 'This feature can be used by admin only',
+    admin: 'Only if Unknown is the admin psych',
     botAdmin: 'This feature can only be used when the bot is a group admin or by ARLODRAGON',
-    owner: 'This feature can be used by owner only or by ARLODRAGON',
-    group: 'This feature is only for groups',
+    owner: 'ONLY UNKNOWN HAS THIS COMMAND IDIOT',
+    group: ' only for groups',
     private: 'This feature is only for private chats or by ARLODRAGON',
     wait: 'In process... ',    
     error: 'Error!',
